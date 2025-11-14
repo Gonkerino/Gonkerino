@@ -1,4 +1,18 @@
-## Hi there 👋
+## 👋 Hey, I'm Malcolm
+
+MSc Computational Mathematical Finance (Machine Learning) @ University of Edinburgh (2025 - Current)
+MPhys Mathematical Physics @ Heriot-Watt University (2019-2024)
+
+Aspiring Quant Researcher & Ex-Optical R&D Intern @ STMicroelectronics
+
+
+
+
+
+
+
+
+
 
 <!--
 **Gonkerino/Gonkerino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
