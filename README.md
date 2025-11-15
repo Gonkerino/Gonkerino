@@ -1,7 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=05A8AA&text=Hey%20I'm%20Malcolm" alt="header"/> 
-I'm a current MSc student in Computational Mathematical Finance (Machine Learning Focus) at The University of Edinburgh, having already graduated with an MPhys in Mathematical Physics from Heriot-Watt University.
-
-I thrive at the intersection of mathematics, optimisation and problem solving, and have a specific interest in optimal decisions in the face of uncertainty. The quantitative skills developed from my mathematical physics background translate very naturally to problems in finance where quantitative research, stochastic methods, high-dimensional optimisation and computational methods have taken my recent interest
+I'm a current MSc student in Computational Mathematical Finance (Machine Learning Focus) at The University of Edinburgh, having already graduated with an MPhys in Mathematical Physics from Heriot-Watt University. I thrive at the intersection of mathematics, optimisation and problem solving, and have a specific interest in optimal decisions in the face of uncertainty. The quantitative skills developed from my mathematical physics background translate very naturally to problems in finance where quantitative research, stochastic methods, high-dimensional optimisation and computational methods have taken my recent interest.
 
 
 ### 📚 I'm Currently Reading:
