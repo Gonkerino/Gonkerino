@@ -34,7 +34,8 @@ I'm a current MSc student in Computational Mathematical Finance (Machine Learnin
 
 ### I've Recently Attended:
 - HackTheBurgh Hackathon (01/11/2025): [https://www.hacktheburgh.com/]
-- AdaHack (5/10/2025): [https://adahack.edinburghhoppers.com/] - "Coding for Good" finalist: [https://github.com/katemchugh/AdaHack25]
+- Addepar "Event-Driven software talks meetup" (23/10/25): [https://www.meetup.com/at-least-once-event-driven-software-architectures/]
+- AdaHack Hackathon (5/10/2025): [https://adahack.edinburghhoppers.com/] - "Coding for Good" finalist: [https://github.com/katemchugh/AdaHack25]
 
 
 ### Non work things I like:
