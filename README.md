@@ -43,4 +43,12 @@ I'm a current MSc student in Computational Mathematical Finance (Machine Learnin
 - D&D + SW5e
 - Otters & Owls
 - Cooking from Scrath
+
+### Future Reading List:
+- "Option Volatility & Pricing" [Sheldon Natenburg]
+- "Advances in Financial Machine Learning" [Marcos Lopez de Prado]
+- "Deep Learning in Python" [Francois Chollet]
+- "Pricing & Hedging Financial Derivatives" [Leonardo Marroni & Irene Perdomo]
+- "Mathematical Modeling and Computation in Finance" [Cornelis Oosterlee & Lech Grzelak]
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=05A8AA&section=footer" alt="footer"/>
