@@ -25,7 +25,8 @@ I thrive at the intersection of mathematics, optimisation and problem solving, a
 
 ### I've Recentlly Attended:
 - HackTheBurgh Hackathon (01/11/2025): [https://www.hacktheburgh.com/]
-- AdaHack (5/10/2025): [https://adahack.edinburghhoppers.com/]
+- AdaHack (5/10/2025): [https://adahack.edinburghhoppers.com/] - "Coding for Good" finalist: [https://github.com/katemchugh/AdaHack25]
+- 
 
 
 
