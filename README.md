@@ -50,5 +50,6 @@ I'm a current MSc student in Computational Mathematical Finance (Machine Learnin
 - "Deep Learning in Python" [Francois Chollet]
 - "Pricing & Hedging Financial Derivatives" [Leonardo Marroni & Irene Perdomo]
 - "Mathematical Modeling and Computation in Finance" [Cornelis Oosterlee & Lech Grzelak]
+- "The Alchemy of Multibagger Stocks: An empirical investigation of factors that drive outperformance in the stock market" [Anna Yartseva]
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=05A8AA&section=footer" alt="footer"/>
