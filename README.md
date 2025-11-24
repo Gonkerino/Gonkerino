@@ -19,7 +19,7 @@ I'm a current MSc student in Computational Mathematical Finance (Machine Learnin
 | _**Relevant Courses:** Numerical Analysis (PDEs) • Optimisation • Functional & Real Analysis • Complex Analysis • Vector Analysis • Ordinary Differential Equations • Multivariable Calculus • Linear Algebra • Applied Mathematics B • Quantum Devices • Statistical, Nuclear & Particle Physics • Solid State & Condensed Matter Physics • Electromagnetism & Laser Physics • Nanophotonics • Photonics & Optics • Experimental & Programming Skills (Python, MATLAB)_ |
 
 
-### Previous Role @ STMicroelectronics (2024): Optical Engineering R&D Intern
+### Previous Role @ STMicroelectronics (Jun - Dec 2024): Optical Engineering R&D Intern
 - Worked on simulation, modelling, and optimisation of next-generation SPAD Time-of-Flight sensors using FDTD, Bayesian optimisation, and statistical analysis.
 - Ran large-scale FDTD simulations and optical characterisation to improve SPAD quantum efficiency.
 - Designed and optimised new pixel/optical-stack topologies under BEOL/DRC + fill-factor constraints.
