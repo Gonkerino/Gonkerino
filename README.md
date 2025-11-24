@@ -9,11 +9,11 @@ I'm a current MSc student in Computational Mathematical Finance (Machine Learnin
 
 
 ### 🎓 Academic Background:
-| **MSc Computational Mathematical Finance (Machine Learning) – University of Edinburgh (2025–26)** |
+| **MSc Computational Mathematical Finance (Machine Learning) – University of Edinburgh (Sep 2025 – Aug 2026)** |
 | --- |
 | _**Relevant Courses:** Discrete-Time Finance • Stochastic Analysis in Finance • Python Programming • Programming Skills • Blockchains and Distributed Ledgers • Finance, Risk and Uncertainty • Numerical Probability and Monte Carlo • Risk-Neutral Asset Pricing • Stochastic Control and Dynamic Asset Allocation • Research Skills for Financial Mathematics • Machine Learning in Python • Credit Scoring_ |
 
-| **Heriot-Watt University – MPhys Mathematical Physics (2019–2024)** |
+| **Heriot-Watt University – MPhys Mathematical Physics (Sep 2019 – Jun 2024)** |
 | --- |
 | **MPhys Dissertation:** “Polarisation Control for Free-Space Quantum Key Distribution (QKD)”<br>**4th-Year Project:** “Simulated Point-Ahead Corrections for Satellite-Based QKD between HOGS and QEYSSat”<br>**Supervisor:** Dr Alessandro Fedrizzi |
 | _**Relevant Courses:** Numerical Analysis (PDEs) • Optimisation • Functional & Real Analysis • Complex Analysis • Vector Analysis • Ordinary Differential Equations • Multivariable Calculus • Linear Algebra • Applied Mathematics B • Quantum Devices • Statistical, Nuclear & Particle Physics • Solid State & Condensed Matter Physics • Electromagnetism & Laser Physics • Nanophotonics • Photonics & Optics • Experimental & Programming Skills (Python, MATLAB)_ |
