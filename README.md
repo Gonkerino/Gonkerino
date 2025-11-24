@@ -36,6 +36,7 @@ I'm a current MSc student in Computational Mathematical Finance (Machine Learnin
 - HackTheBurgh Hackathon (01/11/2025): [https://www.hacktheburgh.com/]
 - Addepar "Event-Driven software talks meetup" (23/10/25): [https://www.meetup.com/at-least-once-event-driven-software-architectures/]
 - AdaHack Hackathon (5/10/2025): [https://adahack.edinburghhoppers.com/] - "Coding for Good" finalist: [https://github.com/katemchugh/AdaHack25]
+- Jane Street Estimathon (20/11/2025): [https://estimathon.com/] - UofE MathSOC/CompSOC event w/ Jane Street
 
 
 ### Non work things I like:
