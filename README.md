@@ -32,7 +32,9 @@ I'm a current MSc student in Computational Mathematical Finance (Machine Learnin
 - Addepar "Event-Driven software talks meetup" (23/10/25): [https://www.meetup.com/at-least-once-event-driven-software-architectures/]
 - AdaHack Hackathon (5/10/2025): [https://adahack.edinburghhoppers.com/] - "Coding for Good" finalist: [https://github.com/katemchugh/AdaHack25]
 - Jane Street Estimathon (20/11/2025): [https://estimathon.com/] - UofE MathSOC/CompSOC event w/ Jane Street
-- EUTIC Fireside Chat (02/02/2026): Pricing ETFs - Ben Champion (Phd UofE, ex-HRT)
+- EUTIC Fireside Chat (02/02/2026): "ETF Pricing Dynamics" - Ben Champion (Phd UofE, ex-HRT)
+- "LLM 101, model efficiency, compression, and distillation" Talk (27/02/26): Dr. Antreas Antoniou [https://antreas.io/llm101-slides/#1]
+- Moody's "Catastrophe Modelling for the Re/Insurance Industry" Talk - Dr. Christos Mitas (MD Model Development)
 
 ### Non work activities:
 - Cycling, Rugby, Skiing
