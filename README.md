@@ -28,13 +28,14 @@ I'm a current MSc student in Computational Mathematical Finance (Machine Learnin
 [![My Skills](https://skillicons.dev/icons?i=py,github,git,mongodb,mysql,aws,discord,latex,matlab,r,octave,windows,vscode)](https://skillicons.dev)
 
 ### I've Recently Attended:
-- HackTheBurgh Hackathon (01/11/2025): [https://www.hacktheburgh.com/]
+- HackTheBurgh Hackathon (01/11/25): [https://www.hacktheburgh.com/]
 - Addepar "Event-Driven software talks meetup" (23/10/25): [https://www.meetup.com/at-least-once-event-driven-software-architectures/]
-- AdaHack Hackathon (5/10/2025): [https://adahack.edinburghhoppers.com/] - "Coding for Good" finalist: [https://github.com/katemchugh/AdaHack25]
-- Jane Street Estimathon (20/11/2025): [https://estimathon.com/] - UofE MathSOC/CompSOC event w/ Jane Street
-- EUTIC Fireside Chat (02/02/2026): "ETF Pricing Dynamics" - Ben Champion (Phd UofE, ex-HRT)
+- AdaHack Hackathon (5/10/25): [https://adahack.edinburghhoppers.com/] - "Coding for Good" finalist: [https://github.com/katemchugh/AdaHack25]
+- Jane Street Estimathon (20/11/25): [https://estimathon.com/] - UofE MathSOC/CompSOC event w/ Jane Street
+- EUTIC Fireside Chat (02/02/26): "ETF Pricing Dynamics" - Ben Champion (Phd UofE, ex-HRT)
 - "LLM 101, model efficiency, compression, and distillation" Talk (27/02/26): Dr. Antreas Antoniou [https://antreas.io/llm101-slides/#1]
-- Moody's "Catastrophe Modelling for the Re/Insurance Industry" Talk - Dr. Christos Mitas (MD Model Development)
+- Fundamentals of Model Risk (19/02/26) - Credit Research Centre [https://www.eventbrite.co.uk/e/fundamentals-of-model-risk-tickets-1981202680550]
+- Moody's "Catastrophe Modelling for the Re/Insurance Industry" (05/03/26) - Dr. Christos Mitas (MD Model Development)
 
 ### Non work activities:
 - Cycling, Rugby, Skiing
