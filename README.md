@@ -25,7 +25,7 @@ I'm a current MSc student in Computational Mathematical Finance (Machine Learnin
 - Contributed to 2 patents, pending for optimisation and modelling methods in optical engineering.
 
 ### Main skills:
-[![My Skills](https://skillicons.dev/icons?i=py,github,git,mongodb,mysql,aws,discord,latex,matlab,r,octave,windows,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,github,git,mysql,aws,discord,latex,matlab,r,windows,vscode)](https://skillicons.dev)
 
 ### I've Recently Attended:
 - HackTheBurgh Hackathon (01/11/25): [https://www.hacktheburgh.com/]
